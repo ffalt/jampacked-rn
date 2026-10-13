@@ -8298,10 +8298,10 @@ react-native-status-bar-height@2.6.0:
   resolved "https://registry.yarnpkg.com/react-native-status-bar-height/-/react-native-status-bar-height-2.6.0.tgz#b6afd25b6e3d533c43d0fcdcfd5cafd775592cea"
   integrity sha512-z3SGLF0mHT+OlJDq7B7h/jXPjWcdBT3V14Le5L2PjntjjWM3+EJzq2BcXDwV+v67KFNJic5pgA26cCmseYek6w==
 
-react-native-tab-view@4.3.2, react-native-tab-view@^4.3.2:
-  version "4.3.2"
-  resolved "https://registry.yarnpkg.com/react-native-tab-view/-/react-native-tab-view-4.3.2.tgz#0bb44d92ba13f3be93a385e34b77cce256913369"
-  integrity sha512-QCHX9bTGMeME5pt4jJ1/H7oshX7Z2nA/Ts3m7FpKUbWfPPIL8rlNLZwkedgV273Eqau8jj8deRtfSZl9LCctCw==
+react-native-tab-view@4.3.3, react-native-tab-view@^4.3.2:
+  version "4.3.3"
+  resolved "https://registry.yarnpkg.com/react-native-tab-view/-/react-native-tab-view-4.3.3.tgz#c498b9da02dd1f4dbe4de6a85deaa096c87b6498"
+  integrity sha512-K8cxG2r5YGh4bT/YM+3bdHz1KXzLqesIuCC8BoHRINajtyvNWltI415P+i+MOg7iCpmV8B+yLS9oNg5pO/3klw==
   dependencies:
     use-latest-callback "^0.2.4"
 
